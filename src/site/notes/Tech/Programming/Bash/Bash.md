@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/programming/bash/bash/","created":"2024-03-04T10:56:30.022-05:00","updated":"2024-03-05T11:15:03.141-05:00"}
+{"dg-publish":true,"permalink":"/tech/programming/bash/bash/","noteIcon":"","created":"2024-03-04T10:56:30.022-05:00","updated":"2024-03-05T11:15:03.141-05:00"}
 ---
 
 This is the table of contents for the Bash module of my personal notebook.
