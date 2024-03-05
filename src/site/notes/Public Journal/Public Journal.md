@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-journal/public-journal/","created":"2024-03-05T10:58:56.915-05:00","updated":"2024-03-05T11:05:24.510-05:00"}
+{"dg-publish":true,"permalink":"/public-journal/public-journal/","noteIcon":"","created":"2024-03-05T10:58:56.915-05:00","updated":"2024-03-05T11:05:24.510-05:00"}
 ---
 
 ```ad-info
