@@ -1,3 +1,4 @@
+{%- if not tags or 'catalog' not in tags -%}
 <div style="width:100%;background-color:var(--background-secondary);padding:1px;margin:1.5em auto 1em auto;"></div>
 <script src="https://giscus.app/client.js"
         data-repo="AtriusX/Garden"
@@ -16,3 +17,4 @@
         async>
 </script>
 <noscript>Please enable JavaScript to view <a href="https://giscus.app/?ref_noscript">Giscus comments</a>.</noscript>
+{%- endif -%}
