@@ -27,4 +27,6 @@ a.tag {
 
 .search-box input:focus {
     border-color:  var(--color-accent-1);
+    border-width: 2px;
+    box-shadow: none;
 }
