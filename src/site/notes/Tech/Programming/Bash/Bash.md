@@ -1,5 +1,5 @@
 ---
-{"tags":["scripting","terminal","catalog"],"dg-publish":true,"dg-authors":["Atri"],"permalink":"/tech/programming/bash/bash/","dgPassFrontmatter":true,"created":"2024-03-04T10:56:30.022-05:00","updated":"2024-03-06T10:51:03.723-05:00"}
+{"tags":["scripting","terminal","catalog"],"dg-publish":true,"dg-authors":["Atri"],"permalink":"/tech/programming/bash/bash/","dgPassFrontmatter":true,"created":"2024-03-04T10:56:30.022-05:00","updated":"2024-03-07T03:02:00.832-05:00"}
 ---
 
 This is the table of contents for the Bash module of my personal notebook.
@@ -13,7 +13,9 @@ This is the table of contents for the Bash module of my personal notebook.
   - [[Tech/Programming/Bash/2. Basic Concepts/2.2 Variables\|2.2 Variables]]
   - [[Tech/Programming/Bash/2. Basic Concepts/2.3 Parameter Expansions\|2.3 Parameter Expansions]]
   - [[Tech/Programming/Bash/2. Basic Concepts/2.4 Arrays\|2.4 Arrays]]
+  - [[Tech/Programming/Bash/2. Basic Concepts/2.5 Conditionals\|2.5 Conditionals]]
 - **3. Advanced Concepts**
   - [[Tech/Programming/Bash/3. Advanced Concepts/3.1 Loops\|3.1 Loops]]
   - [[Tech/Programming/Bash/3. Advanced Concepts/3.2 Piping & Redirects\|3.2 Piping & Redirects]]
+  - [[Tech/Programming/Bash/3. Advanced Concepts/Pattern Matching\|Pattern Matching]]
 
