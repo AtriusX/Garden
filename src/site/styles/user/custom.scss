@@ -14,17 +14,17 @@ a.tag {
 }
 
 .search-box input {
-    border-color: var(--titlebar-text-color-focused);
+    border-color:  var(--color-accent-1);
 }
 
 .search-box input:active {
-    border-color: var(--titlebar-text-color-focused);
+    border-color:  var(--color-accent-1);
 }
 
 .search-box input:hover {
-    border-color: var(--titlebar-text-color-focused);
+    border-color:  var(--color-accent-1);
 }
 
 .search-box input:focus {
-    border-color: var(--titlebar-text-color-focused);
+    border-color:  var(--color-accent-1);
 }
