@@ -8,11 +8,11 @@
     background-color: var(--scrollbar-bg);
 }
 
-.tag {
+a.tag {
     margin: auto 0.5em auto auto;
     border-radius: 5px;
 }
 
-#term:active {
+.search-box input {
     border-color: var(--titlebar-text-color-focused);
 }
