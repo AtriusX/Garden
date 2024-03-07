@@ -16,3 +16,11 @@ a.tag {
 .search-box input {
     border-color: var(--titlebar-text-color-focused);
 }
+
+.search-box input:active {
+    border-color: var(--titlebar-text-color-focused);
+}
+
+.search-box input:hover {
+    border-color: var(--titlebar-text-color-focused);
+}
