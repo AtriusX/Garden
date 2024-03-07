@@ -24,3 +24,7 @@ a.tag {
 .search-box input:hover {
     border-color: var(--titlebar-text-color-focused);
 }
+
+.search-box input:focus {
+    border-color: var(--titlebar-text-color-focused);
+}
