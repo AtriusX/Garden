@@ -1,3 +1,9 @@
 .content {
     max-width: 50%;
 }
+
+.search-button {
+    border: none;
+    border-radius: 5px;
+    background-color: var(--scrollbar-bg);
+}
