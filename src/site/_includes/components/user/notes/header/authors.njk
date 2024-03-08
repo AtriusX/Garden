@@ -1,0 +1,13 @@
+{%- if authors and not "catalog" in tags -%}
+    <div class="authors">
+        <span class="header">
+            Authored by
+        </span>
+        {%- for author in authors %}
+            <a class="author tag" href="#">
+                {{ author }}
+            </a>
+        {%- endfor -%}
+    </div>
+{%- endif -%}
+<div style="width:100%;background-color:var(--background-secondary);padding:1px;margin:1.1em auto 0.5em auto;"></div>

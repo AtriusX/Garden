@@ -30,3 +30,23 @@ a.tag {
     border-width: 2px;
     box-shadow: none;
 }
+
+.authors {
+    margin: 1em 0;
+}
+
+.header {
+    font-size: 1rem;
+    margin: 1em .1em 1em 0;
+    padding: .2em .3em;
+    border-radius: px;
+    font-style: italic;
+    color: var(--color-base-40);
+}
+
+.author {
+    font-weight: 600;
+    border: 1px solid var(--color-accent-1) !important;
+    border-radius: 100px !important;
+    padding: .3em 1em !important;
+}
