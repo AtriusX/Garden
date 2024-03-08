@@ -4,10 +4,11 @@
             Authored by
         </span>
         {%- for author in authors %}
-            <a class="author tag" href="#">
-                {{ author }}
-            </a>
+            {% for note in collections.note %}
+                {% if note.fileSlug.toLowerCase() === author.toLowerCase() %}
+                    <a class ="author tag" href="{{ note.url }}">{{ author }}</a>
+                {% endif %}
+            {% endfor %}
         {%- endfor -%}
     </div>
 {%- endif -%}
-<div style="width:100%;background-color:var(--background-secondary);padding:1px;margin:1.1em auto 0.5em auto;"></div>
