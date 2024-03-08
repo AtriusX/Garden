@@ -1,5 +1,5 @@
 ---
-{"tags":["catalog"],"dg-publish":true,"dg-pinned":true,"dg-authors":["Atri"],"permalink":"/public-journal/public-journal/","pinned":true,"dgPassFrontmatter":true,"created":"2024-03-05T10:58:56.915-05:00","updated":"2024-03-07T17:29:10.613-05:00"}
+{"tags":["catalog"],"dg-publish":true,"dg-pinned":true,"authors":["Atri"],"permalink":"/public-journal/public-journal/","pinned":true,"dgPassFrontmatter":true,"created":"2024-03-05T10:58:56.915-05:00","updated":"2024-03-08T03:27:15.496-05:00"}
 ---
 
 > [!info] Notice
