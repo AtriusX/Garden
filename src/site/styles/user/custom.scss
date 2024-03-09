@@ -60,6 +60,7 @@ a.tag {
     overflow: hidden;
     display: flex;
     flex-direction: column;
+    border: 1px solid var(--background-secondary-alt);
 
     .active-note {
         border-radius: var(--radius-l);
