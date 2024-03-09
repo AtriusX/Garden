@@ -14,19 +14,19 @@ a.tag {
 }
 
 .search-box input {
-    border-color:  var(--color-accent-1);
+    border-color: var(--color-accent-1);
 }
 
 .search-box input:active {
-    border-color:  var(--color-accent-1);
+    border-color: var(--color-accent-1);
 }
 
 .search-box input:hover {
-    border-color:  var(--color-accent-1);
+    border-color: var(--color-accent-1);
 }
 
 .search-box input:focus {
-    border-color:  var(--color-accent-1);
+    border-color: var(--color-accent-1);
     border-width: 2px;
     box-shadow: none;
 }
@@ -49,4 +49,46 @@ a.tag {
     border: 1px solid var(--color-accent-1) !important;
     border-radius: 100px !important;
     padding: .3em 1em !important;
+}
+
+.filetree-sidebar {
+    width: 17%;
+    margin: 1em;
+    padding: 0;
+    height: calc(100% - 2em);
+    border-radius: var(--radius-l);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+
+    .active-note {
+        border-radius: var(--radius-l);
+        margin-right: 1.5em;
+    }
+
+    .search-button {
+        margin: .5em 1em 1em 1em;
+        width: 100%;
+        display: flex;
+
+        .search-text {
+            width: 75%;
+            display: flex;
+            justify-content: space-between;
+        }
+    }    
+
+    .folder {
+        scrollbar-width: none;
+        display: block;
+        overflow: auto;
+        scroll-behavior: smooth;
+        flex: 1;
+    }
+}
+
+.navbar {
+    margin: 1em;
+    border-radius: var(--radius-l);
+    width: calc(100% - 2em);
 }
