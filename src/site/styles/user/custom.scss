@@ -51,43 +51,6 @@ a.tag {
     padding: .3em 1em !important;
 }
 
-.filetree-sidebar {
-    width: 17%;
-    margin: 1em;
-    padding: 0;
-    height: calc(100% - 2em);
-    border-radius: var(--radius-l);
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    border: 1px solid var(--background-secondary-alt);
-
-    .active-note {
-        border-radius: var(--radius-l);
-        margin-right: 1.5em;
-    }
-
-    .search-button {
-        margin: .5em 1em 1em 1em;
-        width: 100%;
-        display: flex;
-
-        .search-text {
-            width: 75%;
-            display: flex;
-            justify-content: space-between;
-        }
-    }    
-
-    .folder {
-        scrollbar-width: none;
-        display: block;
-        overflow: auto;
-        scroll-behavior: smooth;
-        flex: 1;
-    }
-}
-
 #link-graph {
     margin-bottom: 0;
     border: 1px solid var(--background-secondary-alt);
@@ -98,14 +61,12 @@ a.tag {
     border-bottom: 0;
 }
 
-.navbar {
-    margin: 1em;
-    border-radius: var(--radius-l);
-    width: calc(100% - 2em);
-}
-
 .toc {
     background-color: var(--background-secondary);
+}
+
+.toc ol {
+    border-color: var(--color-base-25);
 }
 
 div.toc {
