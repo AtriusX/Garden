@@ -1,0 +1,19 @@
+{% if ogTitle %}
+    <meta name="og:title" content="{{ ofTitle }}"/>
+{% else %}
+    <meta name="og:title" content="The Nexus"/>
+{% endif %}
+{% if ogType %}
+    <meta name="og:type" content="{{ ogType }}"/>
+{% else %}
+    <meta name="og:type" content="text.document"/>
+{% endif %}
+{% if ogImage %}
+    <meta name="og:image" content="{{ ogImage }}"/>
+{% else %}
+    <meta name="og:image" content="#"/>
+{% endif %}
+{% if ogDescription %}
+    <meta name="og:description" content="{{ ogDescription }}"/>
+{% endif %}
+<meta name="og:locale" content="en_US"/>
