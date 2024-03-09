@@ -87,8 +87,36 @@ a.tag {
     }
 }
 
+#link-graph {
+    margin-bottom: 0;
+    border: 1px solid var(--background-secondary-alt);
+}
+
+.graph-title {
+    border: 1px solid var(--background-secondary-alt);
+    border-bottom: 0;
+}
+
 .navbar {
     margin: 1em;
     border-radius: var(--radius-l);
     width: calc(100% - 2em);
+}
+
+.toc {
+    background-color: var(--background-secondary);
+}
+
+div.toc {
+    margin-top: 10px;
+    border: 1px solid var(--background-secondary-alt);
+}
+
+.backlinks {
+    background-color: var(--background-secondary);
+    border: 1px solid var(--background-secondary-alt);
+}
+
+.footnote-item {
+    padding: 0  !important;
 }
