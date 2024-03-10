@@ -65,8 +65,14 @@ a.tag {
     background-color: var(--background-secondary);
 }
 
+nav.toc {
+    padding: 0;
+}
+
 .toc ol {
     border-color: var(--color-base-25);
+    padding-left: 8px;
+    margin: 0;
 }
 
 div.toc {
