@@ -289,3 +289,10 @@ body.links-note-icon .internal-link[data-note-icon="maximize"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="maximize"]::before {
   background-image: url("/img/icons/maximize.svg");
 }
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="redirect"]::before,
+body.filetree-note-icon .filename[data-note-icon="redirect"]::before,
+body.links-note-icon .internal-link[data-note-icon="redirect"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="redirect"]::before {
+  background-image: url("/img/icons/redirect.svg");
+}
