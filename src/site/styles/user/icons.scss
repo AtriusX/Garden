@@ -282,3 +282,10 @@ body.links-note-icon .internal-link[data-note-icon="server"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="server"]::before {
   background-image: url("/img/icons/server.svg");
 }
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="maximize"]::before,
+body.filetree-note-icon .filename[data-note-icon="maximize"]::before,
+body.links-note-icon .internal-link[data-note-icon="maximize"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="maximize"]::before {
+  background-image: url("/img/icons/maximize.svg");
+}
