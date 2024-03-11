@@ -1,5 +1,5 @@
 ---
-{"tags":["scripting","terminal","catalog"],"dg-publish":true,"dg-pinned":true,"authors":["Atri"],"permalink":"/tech/programming/bash/bash/","pinned":true,"dgPassFrontmatter":true,"created":"2024-03-04T10:56:30.022-05:00","updated":"2024-03-09T01:35:36.976-05:00"}
+{"tags":["scripting","terminal","catalog"],"dg-publish":true,"dg-pinned":true,"authors":["Atri"],"permalink":"/tech/programming/bash/bash/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-03-04T10:56:30.022-05:00","updated":"2024-03-09T01:35:36.976-05:00"}
 ---
 
 This is the table of contents for the Bash module of my personal notebook.
