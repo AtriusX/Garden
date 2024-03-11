@@ -1,0 +1,284 @@
+body {
+  --note-icon-1: url("/img/icons/triangle.svg");
+  --note-icon-2: url("/img/icons/square.svg");
+  --note-icon-3: url("/img/icons/hexagon.svg");
+  --note-icon-fallback: url("../../favicon.svg");
+}
+
+h1[data-note-icon] {
+  color: var(--color-accent-1);
+}
+
+h1[data-note-icon]::before {
+  margin-right: 0.5em;
+}
+
+a[data-note-icon]::before {
+  margin-right: 0.5em;
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="activity"]::before,
+body.filetree-note-icon .filename[data-note-icon="activity"]::before,
+body.links-note-icon .internal-link[data-note-icon="activity"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="activity"]::before {
+  background-image: url("/img/icons/activity.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="archive"]::before,
+body.filetree-note-icon .filename[data-note-icon="archive"]::before,
+body.links-note-icon .internal-link[data-note-icon="archive"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="archive"]::before {
+  background-image: url("/img/icons/archive.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="book"]::before,
+body.filetree-note-icon .filename[data-note-icon="book"]::before,
+body.links-note-icon .internal-link[data-note-icon="book"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="book"]::before {
+  background-image: url("/img/icons/book.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="bookmark"]::before,
+body.filetree-note-icon .filename[data-note-icon="bookmark"]::before,
+body.links-note-icon .internal-link[data-note-icon="bookmark"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="bookmark"]::before {
+  background-image: url("/img/icons/bookmark.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="box"]::before,
+body.filetree-note-icon .filename[data-note-icon="box"]::before,
+body.links-note-icon .internal-link[data-note-icon="box"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="box"]::before {
+  background-image: url("/img/icons/box.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="checkbox"]::before,
+body.filetree-note-icon .filename[data-note-icon="checkbox"]::before,
+body.links-note-icon .internal-link[data-note-icon="checkbox"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="checkbox"]::before {
+  background-image: url("/img/icons/checkbox.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="circle"]::before,
+body.filetree-note-icon .filename[data-note-icon="circle"]::before,
+body.links-note-icon .internal-link[data-note-icon="circle"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="circle"]::before {
+  background-image: url("/img/icons/circle.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="code"]::before,
+body.filetree-note-icon .filename[data-note-icon="code"]::before,
+body.links-note-icon .internal-link[data-note-icon="code"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="code"]::before {
+  background-image: url("/img/icons/code.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="dollar"]::before,
+body.filetree-note-icon .filename[data-note-icon="dollar"]::before,
+body.links-note-icon .internal-link[data-note-icon="dollar"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="dollar"]::before {
+  background-image: url("/img/icons/dollar.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="feather"]::before,
+body.filetree-note-icon .filename[data-note-icon="feather"]::before,
+body.links-note-icon .internal-link[data-note-icon="feather"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="feather"]::before {
+  background-image: url("/img/icons/feather.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="heart"]::before,
+body.filetree-note-icon .filename[data-note-icon="heart"]::before,
+body.links-note-icon .internal-link[data-note-icon="heart"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="heart"]::before {
+  background-image: url("/img/icons/heart.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="hexagon"]::before,
+body.filetree-note-icon .filename[data-note-icon="hexagon"]::before,
+body.links-note-icon .internal-link[data-note-icon="hexagon"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="hexagon"]::before {
+  background-image: url("/img/icons/hexagon.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="home"]::before,
+body.filetree-note-icon .filename[data-note-icon="home"]::before,
+body.links-note-icon .internal-link[data-note-icon="home"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="home"]::before {
+  background-image: url("/img/icons/home.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="mail"]::before,
+body.filetree-note-icon .filename[data-note-icon="mail"]::before,
+body.links-note-icon .internal-link[data-note-icon="mail"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="mail"]::before {
+  background-image: url("/img/icons/mail.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="moon"]::before,
+body.filetree-note-icon .filename[data-note-icon="moon"]::before,
+body.links-note-icon .internal-link[data-note-icon="moon"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="moon"]::before {
+  background-image: url("/img/icons/moon.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="octagon"]::before,
+body.filetree-note-icon .filename[data-note-icon="octagon"]::before,
+body.links-note-icon .internal-link[data-note-icon="octagon"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="octagon"]::before {
+  background-image: url("/img/icons/octagon.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="package"]::before,
+body.filetree-note-icon .filename[data-note-icon="package"]::before,
+body.links-note-icon .internal-link[data-note-icon="package"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="package"]::before {
+  background-image: url("/img/icons/package.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="paypal"]::before,
+body.filetree-note-icon .filename[data-note-icon="paypal"]::before,
+body.links-note-icon .internal-link[data-note-icon="paypal"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="paypal"]::before {
+  background-image: url("/img/icons/paypal.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="pen"]::before,
+body.filetree-note-icon .filename[data-note-icon="pen"]::before,
+body.links-note-icon .internal-link[data-note-icon="pen"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="pen"]::before {
+  background-image: url("/img/icons/pen.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="percent"]::before,
+body.filetree-note-icon .filename[data-note-icon="percent"]::before,
+body.links-note-icon .internal-link[data-note-icon="percent"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="percent"]::before {
+  background-image: url("/img/icons/percent.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="square"]::before,
+body.filetree-note-icon .filename[data-note-icon="square"]::before,
+body.links-note-icon .internal-link[data-note-icon="square"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="square"]::before {
+  background-image: url("/img/icons/square.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="sun"]::before,
+body.filetree-note-icon .filename[data-note-icon="sun"]::before,
+body.links-note-icon .internal-link[data-note-icon="sun"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="sun"]::before {
+  background-image: url("/img/icons/sun.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="target"]::before,
+body.filetree-note-icon .filename[data-note-icon="target"]::before,
+body.links-note-icon .internal-link[data-note-icon="target"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="target"]::before {
+  background-image: url("/img/icons/target.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="terminal"]::before,
+body.filetree-note-icon .filename[data-note-icon="terminal"]::before,
+body.links-note-icon .internal-link[data-note-icon="terminal"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="terminal"]::before {
+  background-image: url("/img/icons/terminal.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="triangle"]::before,
+body.filetree-note-icon .filename[data-note-icon="triangle"]::before,
+body.links-note-icon .internal-link[data-note-icon="triangle"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="triangle"]::before {
+  background-image: url("/img/icons/triangle.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="zap"]::before,
+body.filetree-note-icon .filename[data-note-icon="zap"]::before,
+body.links-note-icon .internal-link[data-note-icon="zap"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="zap"]::before {
+  background-image: url("/img/icons/zap.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="x"]::before,
+body.filetree-note-icon .filename[data-note-icon="x"]::before,
+body.links-note-icon .internal-link[data-note-icon="x"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="x"]::before {
+  background-image: url("/img/icons/x.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="x-circle"]::before,
+body.filetree-note-icon .filename[data-note-icon="x-circle"]::before,
+body.links-note-icon .internal-link[data-note-icon="x-circle"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="x-circle"]::before {
+  background-image: url("/img/icons/x-circle.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="x-square"]::before,
+body.filetree-note-icon .filename[data-note-icon="x-square"]::before,
+body.links-note-icon .internal-link[data-note-icon="x-square"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="x-square"]::before {
+  background-image: url("/img/icons/x-square.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="x-octagon"]::before,
+body.filetree-note-icon .filename[data-note-icon="x-octagon"]::before,
+body.links-note-icon .internal-link[data-note-icon="x-octagon"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="x-octagon"]::before {
+  background-image: url("/img/icons/x-octagon.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="x-circle"]::before,
+body.filetree-note-icon .filename[data-note-icon="x-circle"]::before,
+body.links-note-icon .internal-link[data-note-icon="x-circle"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="x-circle"]::before {
+  background-image: url("/img/icons/x-circle.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="at"]::before,
+body.filetree-note-icon .filename[data-note-icon="at"]::before,
+body.links-note-icon .internal-link[data-note-icon="at"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="at"]::before {
+  background-image: url("/img/icons/at.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="cpu"]::before,
+body.filetree-note-icon .filename[data-note-icon="cpu"]::before,
+body.links-note-icon .internal-link[data-note-icon="cpu"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="cpu"]::before {
+  background-image: url("/img/icons/cpu.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="hash"]::before,
+body.filetree-note-icon .filename[data-note-icon="hash"]::before,
+body.links-note-icon .internal-link[data-note-icon="hash"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="hash"]::before {
+  background-image: url("/img/icons/hash.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="minus-square"]::before,
+body.filetree-note-icon .filename[data-note-icon="minus-square"]::before,
+body.links-note-icon .internal-link[data-note-icon="minus-square"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="minus-square"]::before {
+  background-image: url("/img/icons/minus-square.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="music"]::before,
+body.filetree-note-icon .filename[data-note-icon="music"]::before,
+body.links-note-icon .internal-link[data-note-icon="music"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="music"]::before {
+  background-image: url("/img/icons/music.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="star"]::before,
+body.filetree-note-icon .filename[data-note-icon="star"]::before,
+body.links-note-icon .internal-link[data-note-icon="star"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="star"]::before {
+  background-image: url("/img/icons/star.svg");
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="server"]::before,
+body.filetree-note-icon .filename[data-note-icon="server"]::before,
+body.links-note-icon .internal-link[data-note-icon="server"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="server"]::before {
+  background-image: url("/img/icons/server.svg");
+}
