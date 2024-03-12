@@ -7,7 +7,7 @@
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    border: 1px solid var(--background-secondary-alt);
+    border: 2px solid var(--background-secondary-alt);
 
     .active-note {
         border-radius: var(--radius-l);
@@ -39,6 +39,8 @@
     margin: 1em;
     border-radius: var(--radius-l);
     width: calc(100% - 2em);
+    box-shadow: 0 6px 0 var(--background-secondary-alt);
+    border: 2px solid var(--background-secondary-alt);
 }
 
 .filetree-sidebar .logo {
@@ -52,6 +54,78 @@
 
     .feather {
         width: 40%;
+    }
+}
+
+.sidebar-container, .filetree-sidebar {
+    filter: drop-shadow(0 6px 0 var(--background-secondary-alt));
+}
+
+.search-button {
+    background-color: var(--color-base-20);
+    box-shadow: 0 6px 0 var(--background-secondary-alt);
+    border: 2px solid var(--background-secondary-alt);
+    transition: all .25s;
+}
+
+.search-button:hover {
+    padding-top: 4px;
+    box-shadow: 0 2px 0 var(--background-secondary-alt);
+}
+
+.graph, .toc, .backlinks {
+    border-width: 2px !important;
+}
+
+#floating-control {
+    position: fixed;
+    color: var(--link-color);
+    top: 1em;
+    right: 1em;
+    font-size: 24px;
+    z-index: 999999;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+
+    .svg-icon,
+    i {
+        cursor: pointer;
+        height: 24px;
+        width: auto;
+    }
+
+    #theme-switch {
+        .light {
+            display: none;
+        }
+
+        .dark {
+            display: none;
+        }
+
+        .auto {
+            display: none;
+        }
+    }
+
+    #theme-switch.light {
+        .light {
+            display: inline;
+        }
+    }
+
+    #theme-switch.dark {
+        .dark {
+            display: inline;
+        }
+    }
+
+    #theme-switch.auto {
+        .auto {
+            display: inline;
+        }
     }
 }
 
@@ -80,6 +154,22 @@
 
     .filetree-sidebar {
         width: 30%;
+        filter: none;
+    }
+
+    .fullpage-overlay {
+        position: fixed;
+    }
+
+    .search-button:hover {
+        margin-bottom: 4px;
+        box-shadow: 0 2px 0 var(--background-secondary-alt);
+    }
+
+    #floating-control {
+        top: unset;
+        right: 0.75em;
+        bottom: 0.5em;
     }
 }
 
