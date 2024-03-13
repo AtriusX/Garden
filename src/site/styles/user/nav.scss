@@ -61,6 +61,7 @@
 .sidebar-container {
     overflow-y: visible;
     padding-right: 1em;
+    margin-top: 1em;
 }
 
 #link-graph, div.toc, .backlinks, .filetree-sidebar {
@@ -176,6 +177,10 @@
     .search-button:hover {
         margin-bottom: 4px;
         box-shadow: 0 2px 0 var(--background-secondary-alt);
+    }
+
+    .sidebar-container {
+        margin-top: unset;
     }
 
     #floating-control {
