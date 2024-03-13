@@ -22,11 +22,38 @@
 @media screen and (max-width: 1399px) {
     .comments {
         padding-top: 4.5em;
-        max-width: 700px;
+        max-width: 80vw;
     }
 
     .giscus {
-        padding-top: 4.5em;
-        max-width: 700px;
+        max-width: 80vw;
+    }
+
+    .sidebar {
+        max-width: 80vw;
+    }
+
+    .content {
+        width: 80vw;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    
+    .content {
+        width: 80vw;
+    }
+
+    .comments {
+        margin-top: 0;
+        max-width: 80vw;
+    }
+
+    .giscus {
+        max-width: 80vw;
+    }
+
+    .sidebar {
+        max-width: 80vw;
     }
 }

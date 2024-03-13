@@ -12,7 +12,7 @@ code * {
 
 .callout {
     border-bottom-width: 4px;
-    backdrop-filter: blur(3px) ;
+    backdrop-filter: blur(3px);
 }
 
 .search-button {
@@ -104,4 +104,11 @@ div.toc {
 
 .footnote-item {
     padding: 0 !important;
+}
+
+@media screen and (max-width: 1399px) {
+
+    .content {
+        max-width: 85vw;
+    }
 }

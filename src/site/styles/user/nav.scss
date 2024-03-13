@@ -36,13 +36,21 @@
     }
 }
 
+.sidebar .graph-fs {
+    padding: 0;
+}
+
+.graph-fs div {
+    box-shadow: unset;
+}
+
 .navbar {
     margin: 1em;
     border-radius: var(--radius-l);
     width: calc(100% - 2em);
     box-shadow: 0 6px 0 var(--background-secondary-alt);
     border: 2px solid var(--background-secondary-alt);
-    z-index: 500;
+    z-index: 100;
 }
 
 .filetree-sidebar .logo {
@@ -65,9 +73,25 @@
     margin-top: 1em;
 }
 
-#link-graph, div.toc, .backlinks, .filetree-sidebar {
+.graph > #link-graph, div.toc, .backlinks, .filetree-sidebar {
     border: 2px solid var(--background-secondary-alt);
     box-shadow: 0 6px 0 var(--background-secondary-alt);
+}
+
+.sidebar .graph-fs {
+    border: 0;
+    z-index: 999;
+}
+
+.graph-fs > #link-graph, .graph-fs > canvas {
+    box-shadow: none;
+    border-radius: 0;
+    border: 1px solid var(--color-accent);
+}
+
+.graph-fs {
+    border-width: 0 !important;
+    border-radius: 0 !important;
 }
 
 .search-button {
@@ -143,9 +167,18 @@
     }
 }
 
+.fullpage-overlay {
+    z-index: 998;
+}
+
 @media only screen and (max-width: 1399px) {
     .navbar .logo {
         height: 3rem;
+    }
+
+    .sidebar .graph-fs {
+        width: 75%;
+        height: 75%;
     }
 
     .logo {
@@ -169,6 +202,7 @@
     .filetree-sidebar {
         width: 30%;
         filter: none;
+        z-index: 999;
     }
 
     .fullpage-overlay {
@@ -182,16 +216,19 @@
 
     .sidebar-container {
         margin-top: unset;
+        flex-direction: column;
     }
 
     #floating-control {
         top: unset;
         right: 0.75em;
         bottom: 0.75em;
+        flex-direction: column;
     }
 
-    .giscus {
-        margin-bottom: 3.5em;
+    .sidebar .graph {
+        width: 100%;
+        visibility: collapse;
     }
 }
 
