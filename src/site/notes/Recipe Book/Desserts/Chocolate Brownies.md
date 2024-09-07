@@ -1,15 +1,18 @@
 ---
-{"dg-publish":true,"authors":["Najdorf"],"tags":["dessert","food","recipe"],"dg-note-icon":"square","permalink":"/recipe-book/desserts/chocolate-brownies/","dgPassFrontmatter":true,"noteIcon":"square","created":"2024-09-06T22:26:04.634-04:00","updated":"2024-09-06T22:43:32.918-04:00"}
+{"dg-publish":true,"authors":["Najdorf"],"tags":["dessert","food","recipe"],"dg-note-icon":"square","permalink":"/recipe-book/desserts/chocolate-brownies/","dgPassFrontmatter":true,"noteIcon":"square","created":"2024-09-06T22:26:04.634-04:00","updated":"2024-09-06T22:50:32.060-04:00"}
 ---
+
+*A simple nostalgic brownie recipe, taken from an [old YouTube video](https://www.youtube.com/watch?v=LtIgbQTQIwo).*
 
 # You Will Need
 
-## Cooking Supplies
+
+### Cooking Supplies
 
 * Double-Boiler
 * Baking Tray
 * Mixing Tools
-## Ingredients List
+### Ingredients List
 
 | **Ingredient**    | **Amount** |
 | ----------------- | ---------- |
@@ -35,4 +38,5 @@
 - Mix then add chocolate chips
 - Line baking tray with butter and flour
 - Pour mixture onto tray and smooth it
-- Bake for 25-30 minutes Let cool then sift icing sugar on top
+- Bake for 25-30 minutes
+- Let cool then sift icing sugar on top
