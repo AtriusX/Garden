@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"authors":["Najdorf"],"tags":["dessert","food","recipe"],"dg-note-icon":"square","permalink":"/recipe-book/desserts/chocolate-brownies/","dgPassFrontmatter":true,"noteIcon":"square","created":"2024-09-06T22:26:04.634-04:00","updated":"2024-09-06T22:50:32.060-04:00"}
+{"dg-publish":true,"authors":["Najdorf"],"tags":["dessert","food","recipe"],"dg-note-icon":"square","permalink":"/recipe-book/desserts/chocolate-brownies/","dgPassFrontmatter":true,"noteIcon":"square","created":"2024-09-06T22:26:04.634-04:00","updated":"2024-09-06T23:25:23.222-04:00"}
 ---
 
 *A simple nostalgic brownie recipe, taken from an [old YouTube video](https://www.youtube.com/watch?v=LtIgbQTQIwo).*
@@ -15,17 +15,17 @@
 ### Ingredients List
 
 | **Ingredient**    | **Amount** |
-| ----------------- | ---------- |
-| Dark Chocolate    | 2 oz       |
-| Milk Chocolate    | 6 oz       |
-| Unsalted Butter   | 3/4 Cup    |
+| ----------------- | ---------: |
+| Dark Chocolate    |       2 oz |
+| Milk Chocolate    |       6 oz |
+| Unsalted Butter   |    3/4 Cup |
 | Sugar             | 2 1/2 Cups |
-| Vanilla Extract   | 2 tsp      |
-| Eggs              | 4 Large    |
-| All-Purpose Flour | 1 Cup      |
-| Salt              | 1 tsp      |
-| Chocolate Chips   | 1 Cup      |
-| Icing Sugar       | To Taste   |
+| Vanilla Extract   |      2 tsp |
+| Eggs              |    4 Large |
+| All-Purpose Flour |      1 Cup |
+| Salt              |      1 tsp |
+| Chocolate Chips   |      1 Cup |
+| Icing Sugar       |   To Taste |
 # Directions
 
 - Preheat oven to 350F
