@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["food","appetizer","recipe"],"authors":["Najdorf"],"permalink":"/recipe-book/appetizers/lazy-chicken-quesadillas/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-09-06T23:07:03.011-04:00","updated":"2024-09-06T23:27:17.166-04:00"}
+{"dg-publish":true,"tags":["food","appetizer","recipe"],"authors":["Najdorf"],"permalink":"/recipe-book/appetizers/lazy-chicken-quesadillas/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-09-06T23:07:03.011-04:00","updated":"2024-09-06T23:29:37.190-04:00"}
 ---
 
 *A lazy quesadilla recipe for when you want something tasty with minimal effort.*
@@ -14,16 +14,16 @@
 
 ### Ingredients List
 
-| Ingredient                                              | Amount |
-| ------------------------------------------------------- | :----: |
-| Flour tortillas                                         |   -    |
-| Chicken thighs or breasts                               |   -    |
-| Cheddar cheese (not pre-grated)                         |   -    |
-| Monterrey Jack (or Pepper Jack) cheese (not pre-grated) |   -    |
-| Salt and Pepper                                         |   -    |
-| Olive Oil                                               |   -    |
-| Seasoning of Choice (or Italian Seasoning)              |   -    |
-| Mushrooms (Optional)                                    |   -    |
+| **Ingredient**                                          | **Amount** |
+| ------------------------------------------------------- | :--------: |
+| Flour tortillas                                         |     -      |
+| Chicken thighs or breasts                               |     -      |
+| Cheddar cheese (not pre-grated)                         |     -      |
+| Monterrey Jack (or Pepper Jack) cheese (not pre-grated) |     -      |
+| Salt and Pepper                                         |     -      |
+| Olive Oil                                               |     -      |
+| Seasoning of Choice (or Italian Seasoning)              |     -      |
+| Mushrooms (Optional)                                    |     -      |
 
 # Directions
 
