@@ -1,5 +1,5 @@
 ---
-{"tags":["scripting","terminal","catalog"],"authors":["Atri"],"dg-publish":true,"dg-pinned":true,"dg-note-icon":"terminal","permalink":"/tech/programming/bash/bash/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"terminal","created":"2024-03-04T10:56:30.022-05:00","updated":"2024-03-12T02:31:57.489-04:00"}
+{"tags":["scripting","terminal","catalog"],"authors":["Atri"],"dg-publish":true,"dg-pinned":true,"dg-note-icon":"terminal","permalink":"/tech/programming/bash/bash/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"terminal","created":"2024-03-04T10:56:30.022-05:00","updated":"2026-02-04T17:25:47.206-05:00"}
 ---
 
 This is the table of contents for the Bash module of my personal notebook.
@@ -8,6 +8,7 @@ This is the table of contents for the Bash module of my personal notebook.
 - **1. Start**
   - [[Tech/Programming/Bash/1. Start/1.1 Introduction\|1.1 Introduction]]
   - [[Tech/Programming/Bash/1. Start/1.2 Getting Started\|1.2 Getting Started]]
+  - [[Tech/Programming/Bash/1. Start/1.3 Setting Up Shell Scripts\|1.3 Setting Up Shell Scripts]]
 - **2. Basic Concepts**
   - [[Tech/Programming/Bash/2. Basic Concepts/2.1 Running Commands\|2.1 Running Commands]]
   - [[Tech/Programming/Bash/2. Basic Concepts/2.2 Variables\|2.2 Variables]]
