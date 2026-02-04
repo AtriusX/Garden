@@ -1,5 +1,5 @@
 ---
-{"tags":["home","gardenEntry","gardenEntry"],"authors":["Atri"],"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":"home","permalink":"/home/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"home","created":"2024-03-05T11:02:30.126-05:00","updated":"2024-09-06T23:00:10.647-04:00"}
+{"tags":["home","gardenEntry"],"authors":["Atri"],"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":"home","permalink":"/home/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"home","created":"2024-03-05T11:02:30.126-05:00","updated":"2025-08-25T20:40:39.930-04:00"}
 ---
 
 Welcome to *Atri’s Quill*, a digital composition of the knowledge and resources I’ve cataloged over an extended period of time. This site is an extension of the Digital Garden[^1] concept. Its primary purpose is to function as a note-keeping space for my own personal studies, and as a way to quickly share information for concepts which I’ve previously explored with others.
@@ -16,6 +16,7 @@ This comment system solution was chosen due to the highly technical nature of th
 - [[Public Journal/Public Journal\|Public Journal]]
 - [[Tech/Tech\|Tech]]
 - [[Recipe Book/Recipe Book\|Recipe Book]]
+- [[VRChat/VRChat\|VRChat]]
 
 [^1]: [What is a digital garden?](https://www.thunknotes.com/blog/what-is-a-digital-garden)
 [^2]: [Giscus](https://giscus.app)

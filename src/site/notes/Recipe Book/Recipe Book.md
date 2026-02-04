@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"tags":["catalog"],"authors":["Atri","Najdorf"],"dg-note-icon":"book","permalink":"/recipe-book/recipe-book/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"book","created":"2024-09-06T22:53:21.559-04:00","updated":"2024-09-20T11:17:19.452-04:00"}
+{"dg-publish":true,"dg-pinned":true,"tags":["catalog"],"authors":["Atri","Najdorf"],"dg-note-icon":"book","permalink":"/recipe-book/recipe-book/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"book","created":"2024-09-06T22:53:21.559-04:00","updated":"2026-02-04T14:09:06.432-05:00"}
 ---
 
 > [!info] Notice
@@ -11,4 +11,6 @@ This is a public list of recipes that have either been created or compiled by [[
 - **Desserts**
   - [[Recipe Book/Desserts/Blue Crystal Candy\|Blue Crystal Candy]]
   - [[Recipe Book/Desserts/Chocolate Brownies\|Chocolate Brownies]]
+- **Dinners**
+  - [[Recipe Book/Dinners/Gluten-Free Thanksgiving Stuffing\|Gluten-Free Thanksgiving Stuffing]]
 

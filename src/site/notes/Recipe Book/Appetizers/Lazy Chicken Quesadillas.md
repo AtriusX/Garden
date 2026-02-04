@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["food","appetizer","recipe"],"authors":["Najdorf"],"permalink":"/recipe-book/appetizers/lazy-chicken-quesadillas/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-09-06T23:07:03.011-04:00","updated":"2024-09-06T23:29:37.190-04:00"}
+{"dg-publish":true,"tags":["recipe","food/appetizer"],"authors":["Najdorf"],"permalink":"/recipe-book/appetizers/lazy-chicken-quesadillas/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-09-06T23:07:03.011-04:00","updated":"2026-02-04T14:07:15.937-05:00"}
 ---
 
 *A lazy quesadilla recipe for when you want something tasty with minimal effort.*

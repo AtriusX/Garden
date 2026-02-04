@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"authors":["Najdorf"],"tags":["dessert","food","recipe"],"dg-note-icon":"square","permalink":"/recipe-book/desserts/chocolate-brownies/","dgPassFrontmatter":true,"noteIcon":"square","created":"2024-09-06T22:26:04.634-04:00","updated":"2024-09-06T23:25:23.222-04:00"}
+{"dg-publish":true,"authors":["Najdorf"],"tags":["recipe","food/dessert"],"dg-note-icon":"square","permalink":"/recipe-book/desserts/chocolate-brownies/","dgPassFrontmatter":true,"noteIcon":"square","created":"2024-09-06T22:26:04.634-04:00","updated":"2026-02-04T14:08:16.191-05:00"}
 ---
 
 *A simple nostalgic brownie recipe, taken from an [old YouTube video](https://www.youtube.com/watch?v=LtIgbQTQIwo).*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"authors":["Najdorf"],"tags":["food","candy","dessert","recipe"],"dg-note-icon":null,"permalink":"/recipe-book/desserts/blue-crystal-candy/","dgPassFrontmatter":true,"noteIcon":null,"created":"2024-09-20T11:17:09.759-04:00","updated":"2024-09-20T11:24:16.597-04:00"}
+{"dg-publish":true,"authors":["Najdorf"],"tags":["recipe","food/dessert","food/candy"],"dg-note-icon":null,"permalink":"/recipe-book/desserts/blue-crystal-candy/","dgPassFrontmatter":true,"noteIcon":null,"created":"2024-09-20T11:17:09.759-04:00","updated":"2026-02-04T14:07:51.322-05:00"}
 ---
 
 
